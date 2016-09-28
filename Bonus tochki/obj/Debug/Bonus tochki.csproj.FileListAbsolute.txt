@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Bonus tochki\bin\Debug\Bonus tochki.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Bonus tochki\bin\Debug\Bonus tochki.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Bonus tochki\bin\Debug\Bonus tochki.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Bonus tochki\obj\Debug\Bonus tochki.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Bonus tochki\obj\Debug\Bonus tochki.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Bonus tochki\obj\Debug\Bonus tochki.pdb

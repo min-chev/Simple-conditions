@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\MeasureUnits\bin\Debug\MeasureUnits.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\MeasureUnits\obj\Debug\MeasureUnits.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\MeasureUnits\bin\Debug\MeasureUnits.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\MeasureUnits\bin\Debug\MeasureUnits.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\MeasureUnits\obj\Debug\MeasureUnits.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\MeasureUnits\obj\Debug\MeasureUnits.pdb

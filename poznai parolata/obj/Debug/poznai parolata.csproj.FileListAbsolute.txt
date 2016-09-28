@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\poznai parolata\bin\Debug\poznai parolata.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\poznai parolata\bin\Debug\poznai parolata.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\poznai parolata\bin\Debug\poznai parolata.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\poznai parolata\obj\Debug\poznai parolata.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\poznai parolata\obj\Debug\poznai parolata.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\poznai parolata\obj\Debug\poznai parolata.pdb

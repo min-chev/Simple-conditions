@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Seconds\bin\Debug\Seconds.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Seconds\bin\Debug\Seconds.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Seconds\bin\Debug\Seconds.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Seconds\obj\Debug\Seconds.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Seconds\obj\Debug\Seconds.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Seconds\obj\Debug\Seconds.pdb

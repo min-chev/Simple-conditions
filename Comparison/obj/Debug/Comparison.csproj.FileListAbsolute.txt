@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\Simple-Conditions\Comparison\bin\Debug\Comparison.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Comparison\bin\Debug\Comparison.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Comparison\bin\Debug\Comparison.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Comparison\obj\Debug\Comparison.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Comparison\obj\Debug\Comparison.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Comparison\obj\Debug\Comparison.pdb

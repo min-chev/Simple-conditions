@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Pod-Nad\bin\Debug\Pod-Nad.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Pod-Nad\bin\Debug\Pod-Nad.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Pod-Nad\bin\Debug\Pod-Nad.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Pod-Nad\obj\Debug\Pod-Nad.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Pod-Nad\obj\Debug\Pod-Nad.pdb

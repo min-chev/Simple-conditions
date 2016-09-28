@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Area Figures\bin\Debug\Area Figures.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Area Figures\bin\Debug\Area Figures.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Area Figures\bin\Debug\Area Figures.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Area Figures\obj\Debug\Area Figures.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Area Figures\obj\Debug\Area Figures.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Area Figures\obj\Debug\Area Figures.pdb

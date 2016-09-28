@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Time+15minutes\bin\Debug\Time+15minutes.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Time+15minutes\bin\Debug\Time+15minutes.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Time+15minutes\bin\Debug\Time+15minutes.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Time+15minutes\obj\Debug\Time+15minutes.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Time+15minutes\obj\Debug\Time+15minutes.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Conditions\Time+15minutes\obj\Debug\Time+15minutes.pdb
